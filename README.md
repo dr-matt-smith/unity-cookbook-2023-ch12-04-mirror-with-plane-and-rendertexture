@@ -1,1 +1,1 @@
-# unity-cookbook-2023-ch12-04-mirror-with-plane-and-rendertexture
+# unity-cookbook-2023-ch12-05-mirror-with-plane-and-rendertexture
